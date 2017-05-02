@@ -1,0 +1,10 @@
+T1- javac Calculator.java
+      javac CalculatorImpl.java
+      javac CalculatorServer.java
+      javac CalculatorClient.java
+      rmic CalculatorImpl
+      rmiregistry
+
+T2- java CalculatorServer
+T3- java CalculatorClient
+	
